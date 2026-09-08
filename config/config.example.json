@@ -1,0 +1,9 @@
+{
+  "app_bundle_id": "replace.with.installed.bundle-id",
+  "weekdays": [1, 2, 3, 4, 5],
+  "work_blocks": [
+    {"start": "07:55", "end": "12:00"},
+    {"start": "13:00", "end": "18:00"}
+  ],
+  "excluded_dates": []
+}
